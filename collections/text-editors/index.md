@@ -10,7 +10,7 @@ items:
  - Komodo/KomodoEdit
  - leo-editor/leo-editor
  - syl20bnr/spacemacs
- - SpaceVim/SpaceVim
+ - wsdjeg/SpaceVim
  - alm-tools/alm
  - atom/atom
  - LightTable/LightTable
@@ -38,6 +38,8 @@ items:
  - lapce/lapce
  - zed-industries/zed
  - KDE/kate
+ - pulsar-edit/pulsar
+ - voideditor/void
 
 display_name: Text editors
 created_by: leereilly

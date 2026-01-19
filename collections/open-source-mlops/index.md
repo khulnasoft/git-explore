@@ -21,10 +21,10 @@ items:
  - interpretml/interpret
  - mlrun/mlrun
  - microsoft/pai
- - allegroai/clearml
- - iterative/dvc
+ - clearml/clearml
+ - treeverse/dvc
  - determined-ai/determined
- - InfuseAI/primehub
+ - myelintek/primehub
  - treeverse/lakeFS
  - activeloopai/deeplake
  - Netflix/metaflow

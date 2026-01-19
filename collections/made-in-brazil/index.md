@@ -35,9 +35,9 @@ items:
   - turicas/brasil.io
   - react-brasil/empresas-que-usam-react-no-brasil
   - bacen/pix-api
-  - Abacatinhos/agenda-tech-brasil
+  - agenda-tech-brasil/agenda-tech-brasil
   - frontendbr/vagas
-  - vinteumorg/Floresta
+  - getfloresta/Floresta
   
 display_name: Made in Brazil
 created_by: caarlos0

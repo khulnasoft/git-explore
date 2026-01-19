@@ -11,7 +11,7 @@ items:
  - cloud-carbon-footprint/cloud-carbon-footprint
  - Green-Software-Foundation/carbon-aware-sdk
  - thegreenwebfoundation/co2.js
- - lfwa/carbontracker
+ - saintslab/carbontracker
  - Breakend/experiment-impact-tracker
  - sb-ai-lab/Eco2AI
  - mlco2/impact
@@ -45,11 +45,11 @@ items:
  - Green-Software-Foundation/if
  - KernelTuner/kernel_tuner
  - ec0lint/ec0lint
- - green-code-initiative/ecoCode
+ - green-code-initiative/creedengo-rules-specifications
  - geopm/geopm
  - green-code-initiative/ecoCode-android
  - Accenture/EcoSonar
- - green-code-initiative/ecoCode-ios
+ - green-code-initiative/creedengo-ios
  - GoogleCloudPlatform/region-carbon-info
  - Azure/carbon-aware-keda-operator
  - thegreenwebfoundation/grid-intensity-go
